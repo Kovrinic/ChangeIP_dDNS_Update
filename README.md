@@ -18,7 +18,7 @@ MAILTO="username+cron_job@gmail.com"
 4. run the bash script every 15mins, and only email me if there is an error
 5. run bash script on reboot
 
-Installation
+### Installation
 ------------
 
 ``` bash
