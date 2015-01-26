@@ -5,8 +5,9 @@
 #################################################################
 ## Written 3/18/09 by Tom Rinker, released to the Public Domain##
 #################################################################
-## Copyed by Kovrinic on 1/25/15, nothing changed just added   ##
-## to github with readme explaing my cron job.                 ##
+## Copyed by Kovrinic on 1/25/15                               ##
+## Only changed script name so adusted references in this      ##
+## scripts. Added to github with readme explaining my cron job.##
 #################################################################
 ## This is a simple bash script to preform a dDNS update with  ##
 ## ChangeIP.com. It uses only bash and wget, and so should be  ##
