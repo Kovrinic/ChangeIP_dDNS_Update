@@ -1,8 +1,8 @@
 # ChangeIP_DDNS_Update
-check external IP and route to ChangIp DDNS when it changes
+Check external (public) IP and route to ChangIP.com DDNS when it changes.
 
 Running as cron job via `sudo crontab -e` so that is has root permissions.
-My cron job looks like this for now...
+My cron job looks like this...
 
 ```bash
 SHELL=/bin/bash
@@ -28,6 +28,6 @@ mkdir ~/.changeip-ddns-update
 git clone git://github.com/kovrinic/ChangeIP_DDNS_Update ~/.changeip-ddns-update
 # setup cron job
 sudo crontab -e
-# look ^^^ to see cron settings
+# look ^^^ to see crontab settings
 ```
 
