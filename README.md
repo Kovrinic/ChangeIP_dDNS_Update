@@ -19,7 +19,6 @@ MAILTO="username+cron_job@gmail.com"
 5. run bash script on reboot
 
 ### Installation
-------------
 
 ``` bash
 # create directory
