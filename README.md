@@ -23,10 +23,10 @@ Installation
 
 ``` bash
 # create directory
-mkdir ~/.changeip-ddns-update
+$ mkdir ~/.changeip-ddns-update
 # clone git repo into new directory
-git clone git://github.com/kovrinic/ChangeIP_DDNS_Update ~/.changeip-ddns-update
-cd ~/dotfiles
-./makesymlinks.sh
+$ git clone git://github.com/kovrinic/ChangeIP_DDNS_Update ~/.changeip-ddns-update
+# setup cron job
+$ sudo crontab -e
 ```
 
