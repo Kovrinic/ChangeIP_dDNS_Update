@@ -1,5 +1,5 @@
 # ChangeIP_dDNS_Update
-Check external (public) IP and route to ChangIP.com dDNS when it changes.
+Check external (public) IP and route to ChangeIP.com dDNS when it changes.
 
 Running as cron job via `sudo crontab -e` so that is has root permissions.
 My cron job looks like this...
